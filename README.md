@@ -1,6 +1,8 @@
 # BankDOTNet
 
-.NET bank transfer application.
+.NET bank transfer application. Making it possible to list accounts, register, transfer, withdraw and deposit.
+
+Use of OOP for greater security in the data, since within the classes, the data is private.
 
 Options:
 
